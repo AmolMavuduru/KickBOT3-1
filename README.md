@@ -12,6 +12,11 @@ import edu.wpi.first.wpilibj.MotorSafety;
 import edu.wpi.first.wpilibj.AnalogPotentiometer;
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.Jaguar;
+import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
+import edu.wpi.first.wpilibj.AnalogPotentiometer;
+
+public class KB3Steering
+{
 
 //Pseudo code
 //---- Loop ---
@@ -27,3 +32,4 @@ import edu.wpi.first.wpilibj.Jaguar;
 
 //--- Loop Back ---
 
+}
